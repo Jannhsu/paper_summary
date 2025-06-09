@@ -1,8 +1,8 @@
 {
   "papers": [
     {
-      "id": "paper-api-1749172189143-b5zk8m",
-      "title": "Semantic Communication meets System 2 ML: How Abstraction, Reasoning and Large Language Models Will Transform 6G",
+      "id": "paper-api-1749431643219-a5htxe",
+      "title": "Semantic Communication meets System 2 ML: How Abstraction Bridges the Gap Between Intelligent Communication and Machine Learning",
       "url": "https://arxiv.org/html/2505.20964v1",
       "authors": [
         "[Authors not specified in search results]"
@@ -14,45 +14,44 @@
       "publicationDate": "2025",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
-        "Semantic Communication",
-        "System 2 ML",
-        "6G",
-        "Abstraction",
-        "Reasoning",
-        "Large Language Models",
-        "Distributed Intelligence"
+        "6G通信",
+        "语义通信",
+        "系统2型机器学习",
+        "代理系统",
+        "抽象表征",
+        "知识中心通信",
+        "分布式智能"
       ],
-      "snippet": "本论文探讨了6G和AI技术融合的前景，特别关注语义通信与System 2型机器学习的结合。研究指出当前6G愿景主要是5G的渐进式演化，而作者提出了一种从数据中心向知识中心、推理驱动系统的根本性转变。该研究设想了一个由分布式、小型且多模态控制循环组成的系统，这些循环能够感知、推理、规划、适应并通信，共同解决单个控制循环无法独立解决的任务。这一愿景强调了代理从原始数据空间转向学习环境的语义表示（抽象和世界模型）的重要性。[1]",
-      "interpretation": "这篇论文在6G通信研究领域具有开创性意义，它首次系统性地将System 2型机器学习与语义通信相结合，为未来6G网络提供了全新架构视角。其创新点在于提出了\"知识中心\"而非传统\"数据中心\"的通信范式，并引入了类似\"思想社会\"的分布式智能系统概念。论文对组合性、层次性和上下文相关的表示学习方法的探讨，为解决复杂环境下的通信问题提供了理论基础。然而，论文可能面临的局限性包括实际部署挑战、可扩展性问题以及与现有通信基础设施的兼容性。尽管如此，该研究为6G与AI融合的未来发展方向奠定了重要基础。[1]"
+      "snippet": "本论文探讨了6G通信技术与人工智能的融合发展路径。研究指出，当前的6G愿景主要是5G的渐进式演进，而真正的突破需要将语义通信与系统2型机器学习（System 2 ML）相结合。论文提出了一种新的研究方向，旨在设计真正智能的6G感知、通信、学习、控制和推理系统。这种集成代表了从传统的数据中心方法向知识中心、推理驱动系统的根本性转变，类似于\"思想社会\"，多个分布式、小型且多模态的控制回路共同感知、推理、规划、适应和通信，以解决单个代理无法单独解决的任务。",
+      "interpretation": "这篇论文在6G通信与先进AI系统融合方面具有重要的前瞻性。其创新点在于提出了从数据中心向知识中心转变的通信范式，并引入了系统2型机器学习的概念应用于通信领域。论文特别强调了抽象表征的重要性，认为这些表征应具有组合性、层次性和上下文性，使代理能够进行反事实推理、规划和通信。这一研究方向为未来通信系统设计提供了新视角，但实际实现仍面临许多技术挑战，包括如何在资源受限的通信设备上部署复杂的推理系统，以及如何确保不同代理之间的语义一致性。该研究对跨学科领域的发展有重要推动作用，但从概念到实用系统的转化仍需大量工作。"
     },
     {
-      "id": "paper-api-1749172189144-6eq744",
-      "title": "Overview of AI and communication for 6G network",
-      "url": "https://www.sciengine.com/doi/10.1007/s11432-024-4337-1",
+      "id": "paper-api-1749431643220-vgr6ut",
+      "title": "Cross-Modal Graph Semantic Communication Assisted by Generative AI and 3D Point Clouds",
+      "url": "https://spj.science.org/doi/10.34133/research.0342",
       "authors": [
         "[Authors not specified in search results]"
       ],
       "affiliations": [
-        "Chinese Academy of Sciences",
-        "National Natural Science Foundation of China"
+        "[Not specified in search results]"
       ],
-      "journal": "SCIENCE CHINA Information Sciences",
-      "publicationDate": "2025",
+      "journal": "SPJ Science",
+      "publicationDate": "2024",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
-        "Artificial Intelligence",
-        "6G Networks",
-        "Communication Systems",
-        "Network Optimization",
-        "Edge Intelligence",
-        "Resource Allocation",
-        "Distributed Learning"
+        "跨模态通信",
+        "图语义通信",
+        "生成式AI",
+        "三维点云",
+        "元宇宙",
+        "6G通信",
+        "语义表征"
       ],
-      "snippet": "本论文全面概述了AI与6G网络通信的融合发展，重点关注其基本原理、内在特性及应用潜力。研究探讨了人工智能技术如何赋能下一代通信网络，特别是在网络优化、智能资源分配、自适应传输策略等方面的应用。论文同时分析了6G网络对AI系统的影响，包括分布式学习、边缘智能以及网络感知能力的提升。作者强调了AI与通信技术交叉融合对实现超高速率、超低延迟、超密集连接以及高能效和频谱效率等6G网络关键指标的重要性。[2]",
-      "interpretation": "该研究在AI与6G网络融合领域提供了系统性的综述，其主要贡献在于建立了一个全面的技术框架，用于理解这两个快速发展领域的交叉点。论文的独特视角在于它不仅探讨了AI如何赋能通信网络，还分析了通信网络如何反过来促进AI系统发展，体现了双向赋能的思想。研究的重要性在于为未来网络架构设计者提供了理论基础和技术路线图。然而，由于该领域仍处于早期探索阶段，论文中部分设想可能面临实际实现的技术挑战，且缺乏大规模验证数据支持。该研究对推动通信与AI深度融合的学术讨论具有积极促进作用。[2]"
+      "snippet": "本研究提出了一种基于生成式人工智能和三维点云的智能跨模态图语义通信方法，旨在提高元宇宙中多模态表征的多样性。论文通过图神经网络记录与真实场景相关的关键语义特征，并在发送端使用图变换器编码器压缩语义特征，通过跨模态注意力机制提取语义表征。在接收端，研究采用图语义验证机制确保整体数据的准确性，并利用生成式AI在虚拟场景中重新生成多模态数据。同时，研究构建了一个新型三维生成重建网络，能够将数据从图像转换为三维模型，将多模态数据推断到三维模型中，以增强虚拟场景的真实感。",
+      "interpretation": "这篇论文在多模态语义通信领域展现了显著的创新性，特别是将生成式AI与图神经网络、三维点云技术相结合，为元宇宙中的通信问题提供了新解决方案。研究的主要贡献在于提出了一个端到端的跨模态通信框架，该框架不仅关注信息的传输，更注重信息的语义理解与重构。通过图变换器和跨模态注意力机制，系统能够有效提取和压缩关键语义信息，大幅降低传输负担。论文的另一创新点是引入三维生成重建技术，实现从二维图像到三维模型的转换，这对增强元宇宙中的沉浸式体验具有重要价值。然而，该方法可能面临计算复杂度高、跨模态语义对齐困难等挑战。总体而言，这项研究为6G通信与元宇宙的融合发展提供了有价值的技术路径。"
     },
     {
-      "id": "paper-api-1749172189145-3ysbm",
+      "id": "paper-api-1749431643222-79kna",
       "title": "Advances and challenges in semantic communications",
       "url": "https://www.nso-journal.org/articles/nso/full_html/2024/04/NSO20230029/NSO20230029.html",
       "authors": [
@@ -65,54 +64,44 @@
       "publicationDate": "2024",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
-        "Semantic Communications",
-        "6G Networks",
-        "Semantic Information Theory",
-        "Machine Intelligence",
-        "Metaverse",
-        "Communication Reliability",
-        "Bandwidth Efficiency"
+        "语义通信",
+        "6G网络",
+        "语义信息理论",
+        "机器智能",
+        "元宇宙",
+        "高效通信",
+        "智能网络"
       ],
-      "snippet": "本综述文章系统总结了语义信息和语义通信领域的最新进展，包括理论框架、架构设计和潜在应用。研究指出，第六代(6G)网络预计将为物理和数字世界带来全新的连接和智能水平，支持机器智能服务和人与设备在元宇宙中的无缝交互。论文强调了语义通信在满足极高数据率、超低延迟、超密集连接、高能效和频谱效率以及高度智能等6G网络挑战性需求方面的关键作用。特别地，研究探讨了语义通信如何在保持技术层面上存在不可接受比特错误的情况下，仍能使接收端恢复语义或执行智能任务。[3]",
-      "interpretation": "该综述论文在语义通信研究领域具有重要参考价值，它不仅梳理了语义信息理论(SIT)的发展脉络，还深入探讨了语义通信架构在无线网络中的实际应用。论文的主要贡献在于系统性地分析了语义通信如何本质上满足未来网络对智能性、简洁性和个性化的需求，从而成为推动6G网络飞跃发展的关键驱动力。研究特别强调了机器间通信的目标不再仅是重建精确信息，而是促进接收端在适当时间和正确上下文中做出正确推断、决策和行动的能力。然而，论文也坦承语义通信仍面临诸多开放性问题和关键挑战，这为后续研究指明了方向，但也反映了该领域尚未完全成熟的现状。[3]"
+      "snippet": "本综述论文全面总结了语义信息和语义通信领域的理论进展、架构设计和潜在应用。研究指出，第六代(6G)网络预计将为物理和数字世界带来新水平的连接和智能，支持机器智能服务和人类与设备在元宇宙中的无缝交互。这些新应用提出了一系列挑战性要求，如极高的数据速率、超低延迟、超密集连接、高能量和频谱效率，以及高度智能化。论文讨论了语义信息理论的研究进展，探索了语义通信的应用，并概述了该领域的开放问题、关键挑战和潜在解决方案。",
+      "interpretation": "这篇综述论文在语义通信研究领域具有重要的学术价值和参考意义。其主要贡献在于系统性地梳理了语义通信的理论基础、架构设计和应用场景，为研究人员提供了全面的知识框架。论文特别强调了语义通信对6G网络发展的推动作用，指出语义通信能够大幅减少带宽使用，提高通信可靠性，自然地满足未来网络对智能化、简洁性和个性化的需求。研究的独特视角在于将语义通信置于机器对机器通信的背景下讨论，指出在许多应用场景中，通信的目标不是精确重构信息，而是促使接收方在适当时间和正确上下文中做出正确的推断、决策和行动。然而，论文也指出了语义通信面临的挑战，包括语义表示的标准化、跨域语义理解等。这项研究为后续语义通信技术的发展提供了重要指导。"
     },
     {
-      "id": "paper-api-1749172189146-1nyh7k",
-      "title": "Cross-Modal Graph Semantic Communication Assisted by Generative AI and 3D Point Clouds",
-      "url": "https://spj.science.org/doi/10.34133/research.0342",
+      "id": "paper-api-1749431643223-52tmgc",
+      "title": "Overview of AI and communication for 6G network",
+      "url": "https://www.sciengine.com/doi/10.1007/s11432-024-4337-1",
       "authors": [
-        "Wang J",
-        "Chen D",
-        "Wu Z",
-        "Luo C",
-        "Zhou L",
-        "Zhao Y",
-        "Xie Y",
-        "Liu C",
-        "Jiang Y-G",
-        "Yuan L [",
-        "others]"
+        "[Authors not specified in search results]"
       ],
       "affiliations": [
-        "[Not fully specified in search results]"
+        "[Not specified in search results]"
       ],
-      "journal": "Science Partner Journal",
-      "publicationDate": "2024",
+      "journal": "Science China Information Sciences",
+      "publicationDate": "2025",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
-        "Cross-Modal Communication",
-        "Graph Neural Networks",
-        "Semantic Communication",
-        "Generative AI",
-        "3D Point Clouds",
-        "Metaverse",
-        "6G Communications"
+        "人工智能",
+        "6G网络",
+        "通信技术",
+        "智能通信架构",
+        "网络自组织",
+        "大型语言模型",
+        "多智能体系统"
       ],
-      "snippet": "本研究提出了一种基于生成式AI和三维点云的智能跨模态图语义通信方法，旨在提升元宇宙中多模态表示的多样性。研究利用图神经网络记录与真实场景相关的多模态数据的关键语义特征，并在发送端使用图变换器编码器压缩这些语义特征，通过跨模态注意力机制提取语义表示。论文设计了图语义验证机制，以保证接收端整体数据的准确性，并采用生成式AI在虚拟场景中重新生成多模态数据。此外，研究构建了一个新型三维生成重建网络，能将数据从图像转换为三维模型，并将多模态数据融入这些模型中，以增强虚拟场景的真实感。实验结果表明，这种由生成式AI辅助的跨模态图语义通信方法在增强6G通信和元宇宙中用户交互方面具有巨大潜力。[4]",
-      "interpretation": "这篇论文在语义通信与生成式AI结合方面做出了创新性贡献，特别是其提出的跨模态图语义通信框架解决了元宇宙中多模态数据有效交互的关键问题。研究的最大亮点在于将图神经网络、变换器模型与三维点云技术有机结合，创造性地实现了从二维图像到三维模型的语义级转换与重建。该方法不仅提高了通信效率，还显著增强了虚拟环境中的沉浸式体验。论文的技术路线对6G通信与元宇宙融合发展具有重要指导意义。然而，该方法可能面临的挑战包括计算复杂度高、对网络基础设施要求严格，以及在实时应用场景中的延迟问题。尽管如此，这项研究开创了语义通信与元宇宙技术结合的新范式。[4]"
+      "snippet": "这篇论文全面概述了人工智能与6G网络通信的融合发展，重点关注其基本原理、内在特性和应用前景。研究系统性地分析了AI技术如何改变传统通信网络的设计与运行范式，以及6G网络对AI系统的特殊需求和挑战。论文讨论了智能通信架构、网络自组织、资源优化、安全防护等关键技术领域的最新进展，并探讨了大型语言模型、多智能体系统等新兴AI技术在通信网络中的潜在应用。通过理论分析和案例研究，论文为6G时代的智能通信提供了重要的技术路线图。",
+      "interpretation": "这篇综述论文对AI与6G通信融合领域的研究具有重要的引导和启示作用。其主要贡献在于全面梳理了两大技术领域的交叉点，并系统地分析了它们相互赋能的机制和路径。论文的创新之处在于不仅关注AI如何赋能通信网络，还探讨了通信网络如何反过来支持和促进AI系统的发展，体现了双向互动的研究视角。研究特别强调了6G网络对传统通信理论的挑战，指出在超高速、超低延迟的环境下，传统的Shannon信息论可能需要扩展或重构。然而，论文在具体实现方法上的讨论相对有限，对各种方法的性能比较和评估也不够充分。此外，论文对未来研究方向的探讨较为宏观，缺乏具体的技术路线建议。尽管如此，该研究为后续更深入的技术研发奠定了重要的理论基础。"
     }
   ],
-  "lastUpdate": "2025-06-06T09:09:49.148Z",
+  "lastUpdate": "2025-06-09T09:14:03.224Z",
   "keywords": [
     "通信",
     "AI 6G",
@@ -120,5 +109,5 @@
     "LLM",
     "语义通信"
   ],
-  "lastAutoUpdateDate": "2025/6/6"
+  "lastAutoUpdateDate": "2025/6/9"
 }
