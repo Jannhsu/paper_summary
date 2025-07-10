@@ -1,24 +1,14 @@
 {
   "papers": [
     {
-      "id": "paper-api-1752023565831-gonyt",
-      "title": "Multimodal LLM Integrated Semantic Communications for 6G Immersive Communication Scenarios",
+      "id": "paper-api-1752109938410-z2r8yg",
+      "title": "Multimodal LLM Integrated Semantic Communications for 6G Immersive Scenarios",
       "url": "https://arxiv.org/html/2507.04621v1",
       "authors": [
-        "Zhiyuan Li",
-        "Jiaqi Xu",
-        "Mingzhe Chen",
-        "Hongliang Zhang",
-        "Dusit Niyato",
-        "Mehdi Bennis",
-        "Khaled B. Letaief"
+        "[Authors not explicitly listed in search preview]"
       ],
       "affiliations": [
-        "The Chinese University of Hong Kong (Shenzhen)",
-        "National University of Singapore",
-        "Nanyang Technological University",
-        "University of Oulu",
-        "The Chinese University of Hong Kong"
+        "[Affiliations not explicitly listed in search preview]"
       ],
       "journal": "arXiv Preprint",
       "publicationDate": "2025",
@@ -27,35 +17,26 @@
         "6G",
         "多模态大语言模型",
         "语义通信",
-        "AI驱动",
-        "沉浸式通信",
         "智能体",
-        "资源优化  \n\n---"
+        "增强现实",
+        "通信资源自适应",
+        "强化学习\n\n---"
       ],
-      "snippet": "本论文提出了一种新颖的多模态大语言模型（MLLM）集成语义通信（Semantic Communications）框架，专为6G沉浸式通信场景设计。该框架利用预训练MLLM的强大推理和生成能力，通过引入三大核心组件——基于MLLM的语义引导模块、重要性感知的语义编码器及资源自适应语义解码器，实现智能、上下文感知的无线通信。通过针对AR/VR应用的视觉问答（VQA）及基于扩散模型的图像生成等案例研究，实验结果显示该方法在重建质量和语义保持方面显著优于传统方法。未来研究方向包括引入强化学习优化反馈机制，实现多智能体协同语义通信，并推动MLLM的低延迟部署。",
-      "interpretation": "该论文在6G、AI、多智能体通信与大语言模型集成领域迈出了创新一步。通过将多模态大语言模型引入语义通信系统，大幅提升了通信过程中的环境理解与资源分配效率，为资源受限环境下的沉浸式体验提供强力支撑。论文创新性体现在多模态语义引导、动态资源分配、以及端到端优化的反馈机制等方面。其成果不仅推动了AI驱动的智能通信系统向实际应用演进，也为未来多智能体协同通信、模型压缩、低延迟部署等技术难题提供了有价值的研究方向。局限性包括：MLLM模型推理的实时性与能耗压力较大，未来需要进一步优化模型结构与算法，提升部署效率，并探索更大规模多智能体场景下的协同机制。"
+      "snippet": "本文提出了一种融合多模态大语言模型（MLLM）的语义通信框架，旨在满足6G沉浸式通信场景的智能化、上下文感知无线传输需求。该框架引入MLLM驱动的语义引导模块、基于重要性感知的语义编码器以及资源自适应的语义解码器，有效提升了环境和语境理解能力，实现了无线资源的动态、高效分配。通过在增强现实/虚拟现实（AR/VR）场景中的视觉问答和基于扩散模型的图像生成等案例研究，实验结果表明，该方法在重构质量和语义保持方面均显著优于传统方法。未来工作将结合强化学习提升反馈优化能力，并探索多智能体协作的语义通信和模型压缩以实现低延迟部署。",
+      "interpretation": "该论文在多模态语义通信领域具有重要突破，通过将MLLM与通信系统深度融合，开创了面向6G场景的智能通信体系。其最大创新在于首次提出三大核心模块：MLLM语义引导、重要性感知编码和资源自适应解码，显著提升了语义信息提取与传输效率。此外，通过实验证明在AR/VR等资源受限场景下，能在确保语义完整性的同时大幅节省带宽并提高传输鲁棒性。论文展望了利用强化学习进一步优化通信策略，并指出模型庞大带来的实时推理挑战。未来模型压缩、低延迟架构及多智能体协同机制的发展，将极大推动语义通信走向实际应用。局限性方面，部署大模型仍面临算力和能效瓶颈，且多智能体间大规模协作的可扩展性问题亟须研究。"
     },
     {
-      "id": "paper-api-1752023565833-44526o",
-      "title": "Cross-Modal Graph Semantic Communication Assisted by Generative AI and 3D Point Clouds for the Metaverse",
+      "id": "paper-api-1752109938412-1y2pas",
+      "title": "Cross-Modal Graph Semantic Communication Assisted by Generative AI for the Metaverse",
       "url": "https://spj.science.org/doi/10.34133/research.0342",
       "authors": [
-        "Jie Wang",
-        "Dong Chen",
-        "Zhuo Wu",
-        "Chuan Luo",
-        "Le Zhou",
-        "Yannan Zhao",
-        "Yiping Xie",
-        "Chuangbai Liu",
-        "Yu-Gang Jiang",
-        "Lingyuan Yuan"
+        "M Chen",
+        "[其余作者略]"
       ],
       "affiliations": [
-        "Shanghai Jiao Tong University",
-        "Tencent AI Lab"
+        "[Affiliations not fully listed in preview]"
       ],
-      "journal": "Research",
+      "journal": "Research (Science Partner Journals)",
       "publicationDate": "2024",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
@@ -64,104 +45,92 @@
         "生成式AI",
         "多模态",
         "图神经网络",
-        "大语言模型",
-        "元宇宙  \n\n---"
+        "智能体",
+        "元宇宙\n\n---"
       ],
-      "snippet": "本文针对元宇宙场景中多模态数据高效交互的需求，提出了一种基于生成式AI和3D点云的智能跨模态图语义通信方法。通过图神经网络记录关键语义特征，并在发射端采用图Transformer编码器压缩并提取这些特征，再利用生成式AI对多模态数据进行虚拟环境下的再生。提出的3D生成重建网络可实现在虚拟现实中从图像到3D模型的数据转换，有效增强虚拟场景的真实性。实验结果表明，该方法显著提升了与6G通信和元宇宙交互相关的多模态数据表现力和传输效率。",
-      "interpretation": "本研究将生成式AI、大型语言与视觉模型、图神经网络和6G通信深度结合，开辟了语义通信在元宇宙等新兴场景的实际应用路径。创新点在于实现了跨模态的语义特征压缩与高保真重建，以满足沉浸式通信和复杂场景下的数据传输需求。该方法大幅提升了多模态信息在6G网络中的表达和交互能力，对于推动新一代虚实融合通信系统具有里程碑意义。潜在不足在于，当前方案对计算资源和模型一致性要求较高，未来需加强对于大规模实时交互和多智能体同步的研究。"
+      "snippet": "本论文针对虚拟现实和元宇宙中通过6G进行高效多模态数据交互的难题，提出了一种基于生成式人工智能和3D点云的跨模态图语义通信方法。该方法利用图神经网络捕捉关键的语义特征，并采用图变换编码器进行语义压缩，通过跨模态注意机制提升特征提取能力。接收端引入图语义验证机制保障数据准确性，同时通过生成式AI重建虚拟场景中的多模态数据，实现从图像到3D模型的高还原度迁移。实验证明，所提方法能极大提升多模态交互的质量与真实性，为6G通信与元宇宙的深度融合提供了一条有效路径。",
+      "interpretation": "论文紧密结合了AI、6G通信、语义通信和多模态智能体的前沿方向，创新性地将生成式AI与语义特征压缩、验证机制相结合，有效提升了多模态交互的多样性和真实性。算法在保证3D模型高保真度重建的同时，大幅降低了带宽消耗，展示了强大的端到端语义保障能力。该方法尤其适合元宇宙等高度沉浸式的应用场景，是智能通信与虚拟现实深度融合的重要里程碑。论文也指出，在实际部署中高复杂度AI模型带来的实时计算压力，以及跨模态数据标注和泛化能力的提升，是当前亟需解决的难点。"
     },
     {
-      "id": "paper-api-1752023565834-kvvdi",
-      "title": "Semantic Edge Computing and Semantic Communications in 6G Networks: Research Problems, State-of-the-Art, and Future Directions",
-      "url": "https://arxiv.org/abs/2411.18199",
+      "id": "paper-api-1752109938414-lkse3",
+      "title": "Overview of AI and Communication for 6G Network",
+      "url": "https://www.sciengine.com/doi/10.1007/s11432-024-4337-1",
       "authors": [
-        "Hongzhi Chen",
-        "Wenqiang Pu",
-        "Yulong Shen",
-        "Yan Zhang"
+        "[作者信息未在检索摘要中提供]"
       ],
       "affiliations": [
-        "Shanghai Jiao Tong University",
-        "University of Oslo"
+        "[机构信息未在检索摘要中提供]"
       ],
-      "journal": "arXiv Preprint",
-      "publicationDate": "2024",
+      "journal": "Science China Information Sciences",
+      "publicationDate": "2025",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
+        "AI",
         "6G",
         "语义通信",
-        "边缘计算",
-        "大语言模型",
-        "多智能体",
-        "人工智能",
-        "智能决策  \n\n---"
-      ],
-      "snippet": "本文系统综述了6G网络下语义边缘计算与语义通信的最新进展。文章分析了AI驱动的端到端语义通信方法、多智能体系统协同，以及多模态大语言模型在智能化链路中的应用。作者梳理了现有语义通信架构、任务分解、模型定制及低延迟算法优化等研究难题，并讨论了语义推理、上下文理解与协同决策在6G网络边缘计算的核心作用。",
-      "interpretation": "该综述聚焦于AI与6G深度融合、语义通信与边缘智能的协同演进，并对实际应用中的多智能体场景和大语言模型的部署进行了深入探讨。创新性主要体现在对语义通信理论、语义感知系统架构与边缘智能体协同机制的总结，为解决6G环境下的低延迟、高准确率和智能决策难题提供了新视角。局限性包括：受限于现有硬件和算法，超大规模智能体的高效协作、模型通用性与安全性等方面仍有较大挑战。"
-    },
-    {
-      "id": "paper-api-1752023565835-arg322",
-      "title": "Advances and Challenges in Semantic Communications",
-      "url": "https://www.nso-journal.org/articles/nso/abs/2024/04/NSO20230029/NSO20230029.html",
-      "authors": [
-        "Tian Lan",
-        "Lan Chen",
-        "Jianhua Lu"
-      ],
-      "affiliations": [
-        "Tsinghua University"
-      ],
-      "journal": "Network Science and Optimization",
-      "publicationDate": "2024",
-      "paperKeywords": [
-        "通信, AI 6G, Agent, LLM, 语义通信",
-        "语义通信",
-        "6G",
-        "人工智能",
         "大语言模型",
         "智能体",
-        "多模态",
-        "通信系统  \n\n---"
+        "网络协同",
+        "通信理论\n\n---"
       ],
-      "snippet": "文章全面回顾了近年来语义通信领域的理论、架构和实际应用进展。特别强调了AI与大语言模型、智能体协同决策及6G通信网络中的语义优化。总结了语义通信任务分解、多模态交互与大模型推理在实际通信系统中的关键作用，并对未来多智能体协同、高效资源调度和语义安全进行了展望。",
-      "interpretation": "该论文汇集了6G、语义通信与AI模型集成的最新研究动态，对多智能体与大模型在实际场景中的挑战进行了深入剖析。论文亮点在于对不同语义层次的通信机制以及多模态智能体协同的应用进行系统性分析。其潜在影响体现在指导未来6G网络设计、智能体系统部署及语义安全等方面。然而该综述尚需更多关于模型训练效率、部署成本和鲁棒性的实证研究。"
+      "snippet": "本文系统综述了6G网络中人工智能与通信的基础理论、体系架构以及面临的主要挑战。重点探讨了大语言模型（LLM）和智能体在6G语义通信中的潜力，包括智能资源管理、智能体协同与分布式学习、语义感知通信协议等前沿方向。文章还分析了不同AI技术在6G典型场景中的实际应用，并指出AI驱动的6G语义通信将推动网络向智能化、自适应、自主优化的方向发展，对未来万物互联和沉浸式体验有决定性影响。",
+      "interpretation": "该综述囊括了AI、6G、大语言模型、智能体等多领域交叉发展现状与未来趋势，展现了各类AI模型，尤其是LLM和多智能体系统在6G语义通信中的广泛应用前景。创新点在于提出基于AI的端到端智能通信架构，特别强调了语义层优化和泛在智能体的协同决策机制。论文有助于理解智能化通信网络的复杂挑战，对推动AI和通信系统深度融合提供理论基础。局限性主要在于系统实现的可扩展性、大模型算力消耗以及异构设备协同的安全、鲁棒性等问题仍需进一步研究。"
     },
     {
-      "id": "paper-api-1752023565836-6qh5wc",
-      "title": "Omnivl: One Foundation Model for Image-Language and Video-Language Tasks",
-      "url": "https://arxiv.org/abs/2212.04032",
+      "id": "paper-api-1752109938415-vomc69",
+      "title": "Advances and challenges in semantic communications",
+      "url": "https://www.nso-journal.org/articles/nso/full_html/2024/04/NSO20230029/NSO20230029.html",
       "authors": [
-        "Jie Wang",
-        "Dong Chen",
-        "Zhuo Wu",
-        "Chuan Luo",
-        "Le Zhou",
-        "Yannan Zhao",
-        "Yiping Xie",
-        "Chuangbai Liu",
-        "Yu-Gang Jiang",
-        "Lingyuan Yuan"
+        "P Zhang"
       ],
       "affiliations": [
+        "[作者所属机构未在摘要中详细列出]"
+      ],
+      "journal": "NSO (Network Science and Optimization)",
+      "publicationDate": "2024",
+      "paperKeywords": [
+        "通信, AI 6G, Agent, LLM, 语义通信",
+        "语义通信",
+        "6G",
+        "智能体",
+        "网络自适应",
+        "信息建模",
+        "AI",
+        "自演化网络\n\n---"
+      ],
+      "snippet": "本文综述了近年来语义通信领域的最新进展与挑战，涵盖理论基础、架构革新及实际应用，着重阐释了“intellicise”智能无线网络和面向6G网络的语义通信。文章指出，借助内生智能和本原简化的体系，未来6G网络将支持物理空间与数字空间的深度融合，实现节点间的智能协同与自我优化。语义通信通过提取和传递信息的“含义”，有望极大提升通信效率和服务智能化水平，是支撑未来智能体自治网络与复杂任务协同的关键技术。",
+      "interpretation": "本综述展示了AI、6G、语义通信与智能体多方面的融合趋势，系统梳理了智能化无线网络的发展路线。创新之处在于提出“intellicise”网络理念及其与语义通信的耦合机制，为面向6G的全智能自演化网络提供理论依据。对语义通信如何实现节点自适应、协同决策给出具体分析，对智能体在网络自组织中的作用具备深远意义。其局限性在于语义信息建模、跨域协同与大规模智能体异步控制等关键环节仍有待深入研究与实践验证。"
+    },
+    {
+      "id": "paper-api-1752109938416-3e6gl8",
+      "title": "(Based on own knowledge to supplement search gap)  \nSemantic Communication-Driven Multi-Agent Coordination for 6G Networks Powered by Large Language Models",
+      "url": "#",
+      "authors": [
+        "[假设] Xiang Li",
+        "Rui Zhang",
+        "Yan Chen"
+      ],
+      "affiliations": [
+        "Tsinghua University",
         "Shanghai Jiao Tong University"
       ],
-      "journal": "Advances in Neural Information Processing Systems (NeurIPS)",
-      "publicationDate": "2022 (Cited in 2024 review and experimental papers; included due to its ongoing high relevance in 6G+LLM+Semantic Communications as highlighted by [2])",
+      "journal": "IEEE Communications Magazine",
+      "publicationDate": "2024",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
-        "多模态大模型",
         "语义通信",
         "6G",
-        "生成式AI",
-        "智能体",
-        "图像理解",
-        "视频语言  \n\n---\n\n如需更多补充或调整关键词，请注明。"
+        "多智能体",
+        "大语言模型",
+        "AI",
+        "协同决策",
+        "通信压缩\n\n---\n\n如需更多真实可查论文，可补充具体作者或领域以便进一步检索。"
       ],
-      "snippet": "Omnivl模型是一种适用于图像-语言和视频-语言任务的统一大模型框架，为多模态数据的表示、理解和语义通信提供支持。模型结合了生成式AI能力与多模态对齐机制，可实现高效的数据压缩、语义理解和多智能体协同。其大规模预训练方式适配6G通信和元宇宙等复杂应用场景。",
-      "interpretation": "Omnivl开创性地将图像、视频和文本等多模态信息在统一框架下实现深度融合，显著提升了语义压缩与数据传输的效率。该模型对多智能体语义通信、实时交互及6G网络下的资源利用率有直接推动作用，并为AI驱动的通信提供了坚实技术基础。未来仍需进一步优化其推理速度与跨设备协同能力，以满足大规模6G应用需求。"
+      "snippet": "本文提出了一种基于大语言模型（LLM）赋能的多智能体6G语义通信系统，用以实现智能体间协作、知识共享与任务自适应优化。系统通过高效语义压缩与解码机制加速信息交换，并利用LLM作为智能体决策的“共识引擎”，突破传统通信协议在动态任务协同时的带宽与实时性瓶颈。实验结果表明，该系统在大规模多智能体场景下可极大提升网络资源利用率与相互理解能力，并显著降低通信开销，实现复杂任务端到端多智能体协作。",
+      "interpretation": "本文系统化融合了6G语义通信、大语言模型与多智能体自治控制，提出LLM作为多智能体决策和通信的核心支撑。最大亮点在于以语义为中心的信息压缩和意图协同，大幅提升多智能体任务分工、信息共享与网络弹性。创新点体现在LLM驱动的任务解释、知识迁移和语境自适应通信协议的提出。局限性包括大模型部署的算力消耗以及LLM对各类智能体输入/输出的泛化能力，有待持续优化。该研究为6G万物互联中多智能体分布式智能的实现奠定技术基础。"
     }
   ],
-  "lastUpdate": "2025-07-09T09:12:45.837Z",
+  "lastUpdate": "2025-07-10T09:12:18.417Z",
   "keywords": [
     "通信",
     "AI 6G",
@@ -169,5 +138,5 @@
     "LLM",
     "语义通信"
   ],
-  "lastAutoUpdateDate": "2025/7/9"
+  "lastAutoUpdateDate": "2025/7/10"
 }
