@@ -1,7 +1,7 @@
 {
   "papers": [
     {
-      "id": "paper-api-1757293640260-06x2wf",
+      "id": "paper-api-1757379875875-dojedo",
       "title": "Semantic Edge Computing and Semantic Communications in 6G Networks: A Unifying Survey and Research Challenges",
       "url": "https://arxiv.org/abs/2411.18199",
       "authors": [
@@ -11,134 +11,131 @@
         "Francesco Restuccia"
       ],
       "affiliations": [
-        "Northeastern University"
+        "Northeastern University",
+        "Worcester Polytechnic Institute"
       ],
       "journal": "Computer Networks",
       "publicationDate": "2025",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
         "6G",
-        "Semantic Communications",
-        "Edge Computing",
-        "Deep Learning",
-        "Distributed Systems",
-        "AI",
-        "Network Architecture  \n\n---"
+        "semantic communications",
+        "edge computing",
+        "AI-agent",
+        "large language model",
+        "DNN",
+        "wireless networks"
       ],
-      "snippet": "近年来，语义边缘计算（SEC）与语义通信（SemComs）被提出作为实现6G无线网络中实时智能的有效途径。语义通信利用深度神经网络仅编码和传递语义信息，并通过补偿信道失真来提升通信效率。而语义边缘计算通过分布式神经网络，将DNN跨不同终端分配计算，依托设备的计算与网络能力。尽管两领域已取得显著进展，但尚缺乏系统性的统一视角。本文首次系统回顾与整合了SEC与SemCom的发展现状，总结了两者的核心研究问题、主要技术手段和实际挑战，并为学术界和产业界提出未来研究方向。",
-      "interpretation": "本论文在6G研究领域具有里程碑意义，首次统一分析了语义边缘计算与语义通信，为实现智能化6G网络提供了理论基础。其创新点包括系统梳理了两大关键技术的相互关系与互补优势，提出通过深度学习驱动的分布式计算与语义压缩协同优化下一代通信系统，大幅提升带宽效率与端到端延迟性能。潜在影响体现在推动6G时代，端云协同、智能感知和任务驱动型通信架构的落地。然而，其局限性主要在于现有SEC与SemCom系统的原型多为理论模型，现实部署存在安全、算力异构及标准化等瓶颈，需进一步在实际6G网络环境中验证。"
+      "snippet": "语义边缘计算（SEC）和语义通信（SemComs）已被提出作为第六代（6G）无线网络实现实时、边缘智能的有效方法。SemCom利用深度神经网络（DNNs）仅对语义信息进行编码和传递，大幅提升通信效率并增强抗信道失真的能力，而SEC将分布式DNN应用于设备间按能力划分计算负载。尽管这两个领域各自取得显著进展，但缺乏系统性的视角将二者有机结合。本文对SEC和SemCom的研究问题进行了系统梳理与总结，重点回顾了当前技术现状和研究挑战，并尝试统一两个领域的核心思想，为未来6G无线智能通信与计算的融合研究提供指引。",
+      "interpretation": "本论文的重要性在于首次系统化讨论了“语义边缘计算”与“语义通信”在6G网络下的统一框架，填补了二者相互独立研究导致的实际融合难题。创新点包括提出了统一的技术视角，对两大研究领域进行了全面而详细的对比、分析以及未来挑战展望。其影响在于为推动AI驱动下下一代无线网络的智能化和高效语义传输指明了方向，尤其在Agent、LLM与边缘智能交融趋势下意义重大。局限性主要在于还处于理论综述层面，实际大规模部署和与LLM深度集成的方法与标准仍需进一步探索与实证。"
     },
     {
-      "id": "paper-api-1757293640262-0ahu7e",
-      "title": "Cross-Modal Graph Semantic Communication Assisted by Generative AI and 3D Model Generation",
+      "id": "paper-api-1757379875877-p90g8n",
+      "title": "Cross-Modal Graph Semantic Communication Assisted by Generative AI and 3D Point Clouds",
       "url": "https://spj.science.org/doi/10.34133/research.0342",
       "authors": [
         "Min Chen",
-        "Xufei Ma",
-        "Jianfeng Ma",
-        "Xue Liu",
-        "Longfei Wu"
+        "et al."
       ],
       "affiliations": [
-        "Huazhong University of Science and Technology",
-        "Xidian University",
-        "McGill University"
+        "Huazhong University of Science and Technology"
       ],
-      "journal": "Research (AAAS/Science Partner Journals)",
+      "journal": "Research (Science Partner Journal)",
       "publicationDate": "2024",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
-        "Semantic Communications",
+        "semantic communication",
+        "generative AI",
         "6G",
-        "Generative AI",
-        "Cross-modal",
-        "Graph Neural Network",
-        "Multimodal",
-        "3D Reconstruction  \n\n---"
+        "cross-modal",
+        "graph neural network",
+        "3D point clouds",
+        "metaverse"
       ],
-      "snippet": "近年来，元宇宙逐渐成为前沿热点，6G通信与人工智能被视为促进虚拟现实多模态交互的关键。本工作提出一种基于生成式AI和三维点云的跨模态图语义通信方法。通过图神经网络提取多模态数据的语义特征，在发送端利用图Transformer对语义表示进行压缩，并在接收端通过图语义校验机制保证数据的准确性。进一步引入生成式AI，在虚拟场景中重建多模态数据，实现从图像到3D模型的转化，有效提升6G元宇宙场景的交互能力。实验结果验证了该方法在多模态语义信息传递和重建方面的优越性，为6G下沉浸式交互奠定了基础。",
-      "interpretation": "本论文聚焦6G网络与人工智能交叉，提出跨模态语义通信机制，创新性地融合生成式AI与三维点云技术，对提升虚拟世界的感知保真度与交互多样性作用重大。论文系统论证如何通过语义抽取、注意力机制压缩以及AI辅助3D重建，使信息传输突破“比特”层面实现“语义层”交互，为未来沉浸式元宇宙通信带来新范式。其不足在于方法多基于模拟环境验证，缺乏在大规模实际6G网络的可扩展性与资源约束下的实验。此外，数据安全与隐私保护仍需进一步深入研究。"
+      "snippet": "随着元宇宙的发展，多模态数据高效通信已成为6G网络新挑战。本文提出一种基于生成式AI与三维点云的跨模态图语义通信方法，融合图神经网络与Transformer，对涉及实际场景的多模态语义特征进行提取与压缩，在发送端通过跨模态注意机制实现语义表达，然后在接收端采用语义校验与生成式AI重构，最终实现从图像到三维模型的数据再现。实验结果显示，该方法能够显著提升6G通信环境下多用户交互的实时性与多样性，尤其适用于元宇宙虚拟场景构建。",
+      "interpretation": "本论文创新性地将生成式AI、多模态表示学习及语义通信有机结合，针对6G网络环境下的高效大容量多媒体传输提供智能化解决思路。其以图结构和生成模型，在高噪声、低带宽场景下仍能恢复出高保真的三维语义信息，为未来AI Agent、LLM驱动的多模态元宇宙交互奠定技术基础。潜在影响体现在为6G及其上层应用大幅提升感知智能与现实交互能力，但目前所涉实验多因模拟，实际6G网络环境下的可扩展性和大规模部署问题仍需深入挖掘。"
     },
     {
-      "id": "paper-api-1757293640263-txjgkh",
+      "id": "paper-api-1757379875879-0kv4yt",
       "title": "Overview of AI and Communication for 6G Network",
       "url": "https://arxiv.org/abs/2412.14538",
       "authors": [
         "Qimei Cui",
+        "Yuanwei Liu",
         "et al."
       ],
       "affiliations": [
-        "Beijing University of Posts and Telecommunications"
+        "Beijing University of Posts and Telecommunications",
+        "Queen Mary University of London"
       ],
       "journal": "Science China Information Sciences",
       "publicationDate": "2025",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
-        "AI 6G",
-        "Semantic Communications",
-        "Large Language Model",
-        "Agent",
-        "Intelligent Networks",
-        "End-to-End",
-        "Security  \n\n---"
+        "6G",
+        "AI communication",
+        "semantic communications",
+        "agent",
+        "large language model",
+        "intelligent network",
+        "future wireless"
       ],
-      "snippet": "本文全面综述了6G网络中人工智能与通信技术的深度融合。系统回顾了AI在6G自智网络、任务驱动型通信、语义通信与协同智能体等方面的最新进展，重点分析了大模型Agent、端到端优化以及安全通信等关键议题。论文还前瞻性地讨论了AI-赋能6G网络架构设计、资源编排、智能感知与语义驱动通信协议，以及面临的技术挑战与发展趋势，为6G智能通信生态构建提供参考。",
-      "interpretation": "该文被广泛引用，权威性强。其核心创新在于针对AI大模型与6G智能体的融合，既梳理算法进展，又剖析语义通信、网络自组织等前沿主题，对定义6G网络智能通信架构具有重要指引价值。论文指出AI人才、算力、容错机制、隐私保护将成为6G时代语义通信与智能体部署的瓶颈。局限性为综述性质，缺少完整原型系统评测，实际性能提升仍需更多实证。"
+      "snippet": "随着6G网络的提出，人工智能与通信的深度融合成为技术核心驱动力。本文综述了现有AI与6G通信主要交汇领域，包括AI驱动的通信架构、智能体系统、语义通信、LLM与Agent协作机制等。系统性地梳理了AI Agent如何赋能6G网络的认知、推理与自管理能力，以及大模型基础下的智能服务体系。文章还讨论了语义通信架构的实现路径、LLM多任务能力对通信协议优化的促进作用、以及AI原生网络安全与绿色通信等前沿话题。",
+      "interpretation": "该论文综合性极强，将AI、Agent、LLM与6G通信框架纳入全局视野，对未来智能网络的理论架构、发展方向和临界技术难点做了权威梳理。创新在于聚焦“AI原生6G”理念与语义通信、Agent自治等交叉点，强调大模型驱动创新服务范式，但现阶段应用与安全可靠性还需工程化攻关。该论文为研究者提供科技路线图，也是业界融合AI-LLM-Agent的6G标准制订参考依据。局限体现在应用案例多为宏观设想，缺乏具体实验与落地数据。"
     },
     {
-      "id": "paper-api-1757293640264-50qdgc",
+      "id": "paper-api-1757379875880-3u8d0f",
       "title": "A Comprehensive Review of AI-Native 6G",
-      "url": "https://www.frontiersin.org/journals/communications-and-networks/articles/10.3389/frcmn.2025.1655410/full",
+      "url": "https://www.frontiersin.org/articles/10.3389/frcmn.2025.1655410/full",
       "authors": [
-        "[暂无详细作者信息，通常由多位领域内专家共同撰写]"
+        "(Frontiers Editorial Board",
+        "refer to article for specifics)"
       ],
       "affiliations": [
-        "多所国际高校及研究机构联合"
+        "(Multiple, see full article)"
       ],
       "journal": "Frontiers in Communications and Networks",
       "publicationDate": "2025",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
-        "AI-Native 6G",
-        "Semantic Communications",
-        "Large Language Model",
-        "Intelligent Agent",
-        "Edge Intelligence",
-        "Multi-agent System",
-        "Architecture  \n\n---"
+        "AI-native",
+        "6G",
+        "semantic communications",
+        "agent",
+        "large language model",
+        "self-optimizing network",
+        "intelligent protocol"
       ],
-      "snippet": "本综述聚焦于AI原生6G网络的发展路径，系统探讨AI（包括大语言模型与智能Agent）如何与未来通信系统深度融合，实现面向语义的通信范式。内容涵盖智能体协同、端智能、语义信息压缩与推理、多模态与语境感知、高效资源优化等。文章亦梳理了AI-Native 6G架构设计、关键技术挑战、产业应用前景及标准化进程。",
-      "interpretation": "该综述以系统视角理清了AI-原生6G网络的发展脉络，强调大模型与智能体驱动下的“语义优先”通信新范式。其创新处在于总结了多智能体自组织、分层大模型协同、语境识别和语义推断全链路闭环。该文为跨学科研究和6G产业化落地提供理论依据，但由于为综述文章，对具体算法和系统实验的细节相对有限，更多面向未来趋势的总结性和建议性内容。"
+      "snippet": "本文系统回顾了AI原生6G的发展蓝图，强调通信网络从数据中心向感知、理解和语义导向型的智能蜕变。文章梳理了智能体、LLM与语义通信等核心组件在6G生态中的作用，介绍了AI驱动的自优化、自适应网络协议，以及端到端基于语义的信息传输方法。分析了AI-LLM-Agents综合作用下6G网络的智能特化方向、面临的算力挑战、性能瓶颈及应用前景。",
+      "interpretation": "此文重要之处在于全景呈现了AI大模型、Agent协作及语义通信在6G系统级融合所带来的范式转变，是业界AI-native 6G研究的重要综述性文献。通过对比AI嵌入网络各层次的能力与局限，提出未来“通信-计算-智能”深度一体化的演进模型，为标准制定和技术路线设计奠定理论基础。缺陷在于代表性实验数据较少，更多为趋势性前瞻分析，实际商用落地需多方持续推动。"
     },
     {
-      "id": "paper-api-1757293640266-tedc2ve",
-      "title": "Research Report on Generative AI Use Cases and Requirements in 6G",
+      "id": "paper-api-1757379875881-ozbih",
+      "title": "Research Report on Generative AI Use Cases and Requirements in 6G Networks",
       "url": "https://mediastorage.o-ran.org/ngrg-rr/nGRG-RR-2025-02-GenAI%20in%20Network.pdf",
       "authors": [
-        "O-RAN Next Generation Research Group (NGRG)",
-        "多位产业与学术界专家联合"
+        "O-RAN Next Generation Research Group (NGRG)"
       ],
       "affiliations": [
-        "O-RAN Alliance",
-        "6G Industry Group"
+        "O-RAN Alliance"
       ],
-      "journal": "O-RAN NGRG Contributed Research Report RR-2025-02",
+      "journal": "O-RAN NGRG Research Report RR-2025-02",
       "publicationDate": "2025",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
+        "6G",
         "Generative AI",
-        "AI 6G",
-        "Semantic Communications",
-        "Network Agent",
-        "Edge Intelligence",
-        "Distributed Inference",
-        "Communication Protocols"
+        "semantic communication",
+        "large language model",
+        "agent",
+        "edge intelligence",
+        "O-RAN"
       ],
-      "snippet": "本报告系统分析生成式AI（GenAI）在6G网络中的融合应用。深入探讨了GenAI为6G网络架构、通信协议优化、智能体服务及语义通信带来的革命性影响。报告重点列举了“6G驱动GenAI网络”、“GenAI赋能通信系统”以及“GenAI原生服务”等三大场景，提出未来6G网络对分布式AI推理、语义压缩、边缘协同和智能Agent设计的技术需求及挑战。",
-      "interpretation": "本报告由业界标准组织牵头，针对生成式AI与6G深度融合各类应用进行梳理，突出AI大模型/Agent对6G网络自适应管理、语义感知通信与资源优化的推动作用。最大亮点在于面向通信系统工程落地，细化了AI-优化协议、分布协同训练、语义压缩等具体需求，提供标准参考与工程建议。局限为行业技术报告，算法细节和实验数据相对简略，但对实际网络部署和未来研究指导意义较大。"
+      "snippet": "本报告围绕生成式AI深度嵌入6G网络的主要用例及关键需求展开，涵盖“基于GenAI的6G网络智能体”、“AI原生通信协议”、“语义通信与智能网络功能”、“分布式LLM推理与训练”等前沿领域。报告界定了AI模型在网络边缘即服务、语义层传输、Agent自治决策等方面实现通信系统强自适应、精准资源分配和实时自动化优化的应用图景，并总结了产业落地与跨界协同的重点挑战。",
+      "interpretation": "这份行业主导的技术报告，有力总结了大模型与Agent在6G通信系统多类原生场景下的潜能。创新之处是在标准与工程实现视角下提出“6G网络原生GenAI”框架及其闭环应用，强调了分布式智能体、边缘训练和语义通信机制的联合部署，为未来泛在智能网络蓝图铺路。不足在于案例偏向技术蓝图和指南性质，缺乏具体算法细节和定量实验结果，主要作为标准和产业参考文献。"
     }
   ],
-  "lastUpdate": "2025-09-08T09:07:20.267Z",
+  "lastUpdate": "2025-09-09T09:04:35.882Z",
   "keywords": [
     "通信",
     "AI 6G",
@@ -146,5 +143,5 @@
     "LLM",
     "语义通信"
   ],
-  "lastAutoUpdateDate": "2025/9/8"
+  "lastAutoUpdateDate": "2025/9/9"
 }
