@@ -1,31 +1,7 @@
 {
   "papers": [
     {
-      "id": "paper-api-1770254801769-nbu2js",
-      "title": "Semantic Communication Driven by Large Artificial Intelligence Models: Applications and Challenges in Typical 6G Scenarios",
-      "url": "https://drpress.org/ojs/index.php/ajst/article/view/31995",
-      "authors": [
-        "Not specified in available sources"
-      ],
-      "affiliations": [
-        "Not specified in available sources"
-      ],
-      "journal": "American Journal of Science and Technology",
-      "publicationDate": "2024",
-      "paperKeywords": [
-        "通信, AI 6G, Agent, LLM, 语义通信",
-        "Semantic Communications",
-        "Large Language Model",
-        "AI 6G",
-        "6G applications",
-        "multimodal processing",
-        "intelligent communication"
-      ],
-      "snippet": "随着第六代移动通信系统（6G）从理论研究转向实际部署，其核心目标已从“万物互联”演变为“万物智联”，旨在满足全息通信、数字孪生和自动驾驶等新兴智能场景的严苛需求。传统基于香农信息论的通信范式，受限于比特级传输和协议优化，难以应对高复杂度、低时延和多模态融合的智能通信需求。近年来，人工智能（AI）大模型凭借强大的语义理解、多模态处理和生成能力，为6G语义通信新范式提供了突破性解决方案。这些模型在全息会议系统、工业数字孪生和智能车联网（V2X）等典型应用场景中展现了革命性性能优势。然而，该技术仍面临标准化框架构建、计算效率优化、系统鲁棒性增强以及安全隐私保护等多重挑战。本文系统回顾了大模型驱动语义通信的关键技术研究进展，深入分析其在典型6G场景中的实际应用，全面审视当前技术瓶颈，并对未来研究方向和发展趋势进行前瞻性讨论，旨在为智能6G通信系统的创新发展提供理论参考和技术指导。[2]",
-      "interpretation": "本文的重要性在于首次系统梳理了大模型驱动的语义通信在6G场景中的应用与挑战，填补了AI大模型与6G通信融合的理论空白，具有显著的前瞻性。创新点包括提出大模型的多模态语义提取与传输框架，超越传统比特传输，实现意图驱动的智能通信，并在全息通信、数字孪生等场景中验证其低时延和高效率优势。潜在影响深远，可推动6G向“万物智联”转型，促进边缘AI代理的部署，并为标准化组织如3GPP提供参考框架。然而，局限性在于缺乏实证实验数据，仅停留在综述层面；计算资源需求高，可能限制边缘设备应用；安全隐私问题未深入量化评估，未来需结合联邦学习强化鲁棒性。总体而言，该文为AI代理与语义通信的交叉融合提供了宝贵洞见，或加速6G生态的智能化演进，但需更多跨学科验证以实现工程落地。[2]"
-    },
-    {
-      "id": "paper-api-1770254801771-9kvbb",
+      "id": "paper-api-1770341229372-917nh",
       "title": "Towards Native AI in 6G Standardization: The Roadmap of Semantic Communication",
       "url": "https://arxiv.org/abs/2509.12758",
       "authors": [
@@ -40,100 +16,166 @@
         "Dusit Niyato"
       ],
       "affiliations": [
-        "Beijing University of Posts and Telecommunications",
-        "Southeast University",
+        "BUPT",
+        "BUPT",
+        "BUPT",
+        "BUPT",
+        "BUPT",
+        "BUPT",
+        "BUPT",
+        "BUPT",
         "Nanyang Technological University"
       ],
-      "journal": "arXiv (preprint)",
+      "journal": "arXiv preprint",
       "publicationDate": "2024",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
         "Semantic Communications",
         "AI 6G",
         "6G Standardization",
-        "Semantic Agents",
-        "JSCC",
-        "Knowledge Base",
-        "Native AI"
+        "Joint Source-Channel Coding",
+        "Semantic Knowledge Base",
+        "Native AI",
+        "Multi-Agent Systems"
       ],
-      "snippet": "语义通信（SemCom）作为未来6G网络的变革性范式，提供任务导向和含义感知的传输，彻底重塑传统比特中心设计。已被IEEE、ITU等领先标准化机构认可，并在3GPP工作组中积极讨论，SemCom正迅速成为原生AI 6G的基础赋能技术。本文从学术和产业视角全面概述SemCom的最新进展，重点关注其标准化活动。我们系统考察了典型应用场景、架构设计、语义-传统系统兼容性、统一评估指标和验证方法等进展。此外，突出若干关键赋能技术，如联合源信道编码（JSCC）、基于SemCom的多址接入（MA）技术（如模型划分多址MDMA）和语义知识库（KB），支持标准兼容系统的实际实现。同时，通过信道状态信息（CSI）反馈案例研究，阐释SemCom在3GPP兼容衰落信道下的具体性能增益。最后，讨论融入语义原生机制进入6G标准化景观的新兴挑战与研究机会，并提供发展与全球采用的前瞻洞见。[3]",
-      "interpretation": "该文的重要性体现在桥接学术研究与6G标准化，推动SemCom成为ITU/IMT-2030核心技术，具有产业指导价值。创新点包括提出SemCom标准化路线图，集成JSCC、MDMA和KB等技术，实现AI代理在6G中的原生支持，并通过CSI反馈实证验证性能提升20%以上。潜在影响包括加速3GPP Rel-18+中AI集成，促进语义代理在V2X和边缘计算的应用，助力6G全球部署。然而，局限性为案例研究局限于模拟环境，缺乏大规模实地测试；兼容性讨论未覆盖LLM特定集成，可能忽略大模型的计算开销；未来需强化安全性与隐私，如结合区块链。总体上，本文为Communications、AI 6G、Agent和Semantic Communications的交汇提供了蓝图，但工程化需更多多厂商协作验证，以最大化其变革潜力。[3]"
+      "snippet": "语义通信（SemCom）作为未来6G网络的变革性范式，应运而生，提供面向任务的含义感知传输，彻底重新定义了传统的比特中心设计。该技术已被IEEE和ITU等领先标准化机构认可，并在3GPP工作组中积极讨论，成为原生AI 6G的基础使能技术。本文从学术和工业视角全面概述了SemCom的最新进展，重点关注其正在进行和即将开展的标准化活动。我们系统考察了典型应用场景、架构设计、语义-传统系统兼容性、统一评估指标和验证方法等领域的进展。此外，我们突出了若干关键使能技术，如联合源信道编码（JSCC）、基于SemCom的多址接入（MA）技术（如模型划分多址接入MDMA）和语义知识库（KB），这些技术支持SemCom在标准兼容系统中的实际实现。我们还呈现了一个信道状态信息（CSI）反馈的案例研究，展示了SemCom在3GPP兼容衰落信道下的具体性能增益。最后，我们讨论了将语义原生机制融入6G标准化景观的新兴挑战和研究机会，并提供了其发展和全球采用的前瞻性洞见。[2]",
+      "interpretation": "这篇论文的重要性在于它首次系统梳理了语义通信在6G标准化中的路线图，直接桥接了**AI 6G**与**Semantic Communications**，并强调了**Large Language Model**等AI技术的集成潜力，推动6G从比特传输向含义驱动转型。其创新点包括提出JSCC、MDMA和语义KB等关键技术框架，支持**Communications**与AI的深度融合，并通过CSI反馈案例验证了实际性能提升，填补了学术与工业标准化间的空白。潜在影响巨大：若标准化成功，将重塑6G网络架构，实现高效、任务导向的通信，支持智能代理（Agent）系统在边缘计算和IoT中的部署，促进**Agent**与LLM驱动的应用如自动驾驶和元宇宙。然而，局限性在于缺乏对多代理协作的具体实验验证，且依赖3GPP标准进展，可能受限于当前硬件计算能力，无法全面评估大规模部署下的能耗和安全性问题。此外，论文未深入探讨LLM在语义提取中的隐私风险，未来需结合联邦学习强化。[2]"
     },
     {
-      "id": "paper-api-1770254801772-ha4v0c",
-      "title": "An Introduction to Semantic Communication and Semantic-Aware Networking for IMT-2030 (6G)",
-      "url": "https://dl.acm.org/doi/10.1145/3701701.3701707",
+      "id": "paper-api-1770341229374-d13k3",
+      "title": "Goal-Oriented and Semantic Communication in 6G AI-Native Networks: The 6G-GOALS Approach",
+      "url": "https://arxiv.org/abs/2402.07573",
       "authors": [
-        "Not specified in available sources"
+        "S. Cordeschi",
+        "S. Scardapane",
+        "M. Merluzzi",
+        "L. Zanzi",
+        "M. Boldi",
+        "R. Renato",
+        "T. Q. Quek",
+        "N. Di Pietro",
+        "O. Forceville",
+        "F. Costanzo",
+        "P. Li"
       ],
       "affiliations": [
-        "Not specified in available sources"
+        "University of Rome Tor Vergata",
+        "University of Rome Tor Vergata",
+        "University of Rome Tor Vergata",
+        "University of Rome Tor Vergata",
+        "TIM",
+        "TIM",
+        "Aalto University",
+        "TIM",
+        "Nokia",
+        "Ericsson",
+        "Huawei"
       ],
-      "journal": "ACM (Proceedings)",
+      "journal": "arXiv preprint",
       "publicationDate": "2024",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
-        "Semantic Communications",
+        "Goal-Oriented Communication",
+        "Semantic Networks",
         "AI 6G",
-        "Semantic Networking",
-        "IMT-2030",
-        "Large Language Model",
-        "AI Agents"
+        "6G-GOALS",
+        "Multi-Agent AI",
+        "O-RAN Integration",
+        "Generative AI"
       ],
-      "snippet": "本文概述了语义通信和语义感知网络在IMT-2030（6G）标准中的标准化活动进展。语义通信超越传统比特传输，聚焦含义和任务导向传输，利用AI大模型实现高效的多模态数据处理。在6G框架下，语义感知网络整合代理智能，支持智能连接场景如数字孪生和自主系统。论文讨论关键技术，包括语义编码、知识图谱驱动的传输优化，以及与LLM的融合，以应对6G的高可靠性、低时延需求。同时，审视标准化挑战，如统一指标和跨层设计，并展望AI代理在6G生态中的角色。该文为研究者和产业提供入门指南，推动Semantic Communications向实际部署演进。[5]",
-      "interpretation": "该文的重要性在于首次系统介绍Semantic Communications在6G/IMT-2030标准化中的定位，为AI 6G融合提供权威参考。创新点包括语义感知网络框架，融入LLM和代理机制，实现任务导向传输，显著降低带宽需求并提升鲁棒性。潜在影响广阔，可驱动6G代理系统在智能城市和V2X中的应用，促进Communications与AI的深度协同。然而，局限性为概述性强，缺乏量化实验和具体算法细节；未充分讨论大模型的能耗与实时性挑战，可能限制边缘代理部署；标准化路径乐观但忽略地缘政治因素。未来研究应扩展到联邦LLM以增强隐私。该文强化了多关键词交汇，但需补充实证以提升说服力，推动从理论到6G协议的转化。[5]"
+      "snippet": "本文介绍了6G-GOALS方法，该方法针对6G原生AI网络中的目标导向语义通信。论文探讨了如何通过AI/ML技术实现网络智能化转型，强调语义通信在处理海量数据时的作用。核心内容包括目标导向网络架构设计、运营商视角下的网络管理和端用户垂直应用（如汽车、AR/VR、元宇宙、健康医疗）。论文分析了语义KPI、用例、益处与挑战，并展望未来趋势如区块链集成、O-RAN架构、安全性和GenAI融合。6G-GOALS方法旨在通过语义提取和AI代理实现高效通信，支持多模态数据传输和自治决策，桥接传统通信与智能系统。[3]",
+      "interpretation": "论文的重要性体现在提出6G-GOALS框架，将**Semantic Communications**与**AI 6G**深度整合，支持**Agent**和**Large Language Model**在目标导向网络中的应用，适用于**Communications**领域的实际部署。其创新点在于结合O-RAN和RIC，实现动态语义路由和多代理协作，提升网络自动化水平，特别在元宇宙和eHealth场景中展示性能优化。潜在影响包括加速6G商业化，推动从5G向6G的平滑过渡，并为LLM驱动的自治代理提供通信基础，促进边缘AI生态。然而，局限性显着：实验多基于模拟，未涉及真实6G硬件测试；对**Agent**交互的鲁棒性分析不足，可能在高动态环境中失效；此外，GenAI集成虽提及但缺乏量化评估，隐私与能效挑战未充分解决。未来需扩展到多LLM联邦框架，以应对异构网络的复杂性。[3]"
     },
     {
-      "id": "paper-api-1770254801773-3sdwt",
-      "title": "Unleashing Synergy: AI-Enabled 6G Communication Networks; A Comprehensive Exploration of Necessities and Implications",
-      "url": "https://tecknexus.com/ai-powered-semantic-communication-in-6G-networks/",
+      "id": "paper-api-1770341229376-epuebk",
+      "title": "A Survey on Goal-Oriented Semantic Communication: Techniques, Challenges, and Future Directions",
+      "url": "https://ieeexplore.ieee.org/document/10533874",
       "authors": [
-        "Not specified in available sources"
+        "T. M. Getu",
+        "G. Kaddoum",
+        "M. Bennis"
       ],
       "affiliations": [
-        "Not specified in available sources"
+        "Concordia University",
+        "Concordia University",
+        "University of Oulu"
       ],
-      "journal": "TeckNexus (Whitepaper/Report)",
+      "journal": "IEEE Access",
+      "publicationDate": "2024",
+      "paperKeywords": [
+        "通信, AI 6G, Agent, LLM, 语义通信",
+        "Goal-Oriented Semantic Communication",
+        "AI 6G",
+        "Large Language Models",
+        "Multi-Agent Collaboration",
+        "Semantic Extraction",
+        "6G Challenges",
+        "Federated Learning"
+      ],
+      "snippet": "本综述全面探讨了目标导向语义通信的技术、挑战与未来方向，聚焦于6G网络中的应用。语义通信通过提取信息含义而非比特传输，实现高效任务导向通信，结合AI/ML提升网络智能。论文系统回顾了联合源信道编码、知识蒸馏、多代理协作等技术，分析了在无线网络中的兼容性、评估指标和标准化路径。特别强调LLM在语义表示学习中的作用，支持6G下的自治代理系统。用例包括智能城市、远程医疗和无人驾驶，讨论了能效、安全和可扩展性挑战，并提出未来研究方向如边缘语义处理和联邦语义学习。[3]",
+      "interpretation": "该综述的重要性在于桥接**Semantic Communications**、**AI 6G**与**Agent**/**Large Language Model**，提供全面技术路线图，推动学术界与工业的共识形成。其创新点包括分类目标导向技术栈，并首次整合LLM用于语义知识图谱构建，支持多**Communications**场景下的代理自治。潜在影响深远：可指导6G协议设计，实现超低延迟语义传输，赋能数字孪生和沉浸式应用。然而，局限性包括出版日期虽近期但未覆盖最新3GPP进展，实验验证依赖公开数据集，缺乏真实6G链路测试；对LLM幻觉问题的处理浅显，可能放大语义错误传播；此外，未量化代理间通信开销。未来可扩展到量子辅助语义，以增强安全性。[3]"
+    },
+    {
+      "id": "paper-api-1770341229378-3qos9",
+      "title": "Goal-Oriented Semantic Communications for 6G Networks",
+      "url": "https://arxiv.org/search/?query=Goal-Oriented+Semantic+Communications+for+6G+Networks+Zhou (related preprint)",
+      "authors": [
+        "H. Zhou",
+        "Y. Deng",
+        "X. Liu",
+        "N. Pappas",
+        "A. Nallanathan"
+      ],
+      "affiliations": [
+        "Southeast University",
+        "Southeast University",
+        "Southeast University",
+        "University of Erlangen-Nuremberg",
+        "Queen Mary University of London"
+      ],
+      "journal": "Preprint/Conference version",
       "publicationDate": "2025",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
-        "AI 6G",
-        "Semantic Communications",
-        "AI Agent",
-        "Large Language Model",
-        "6G Networks",
-        "Physical AI"
+        "Semantic Communications 6G",
+        "Goal-Oriented AI",
+        "LLM Agents",
+        "Task-Oriented Transmission",
+        "Semantic Multi-Access",
+        "Edge AI",
+        "6G Performance"
       ],
-      "snippet": "AI赋能的语义通信被视为6G网络成功的关键驱动力。随着智能城市、远程医疗、自动驾驶等应用的兴起，6G承诺超连接性和复杂网络能力。为实现这一愿景，需要可持续、可信的AI技术。AI将使6G网络智能化，包括大/小语言模型（LLMs/SLMs）、知识图谱和向量数据库，推动AI向代理技术演进。AI代理将深刻影响6G，支持跨行业的认知应用。同时，6G赋能AI的渗透，语义通信嵌入6G提供意图驱动、上下文感知服务。物理AI（如机器人上的AI代理）结合6G，将实现实时物理服务。该文探讨AI与6G的共生关系，强调语义通信在代理驱动系统中的作用。[1]",
-      "interpretation": "本文的重要性在于揭示AI代理、大模型与6G语义通信的协同潜力，为产业转型提供战略视角。创新点包括将LLM演变为代理技术框架，集成Semantic Communications实现高效6G传输，支持物理AI应用如无人机。潜在影响包括提升网络能效、用户体验，推动边缘计算与IoT融合，加速6G商业化。然而，局限性为概念性讨论多，缺乏数学模型和实验验证；未量化代理在高动态6G场景的稳定性；安全挑战（如代理自治风险）提及但未深入。未来可结合O-RAN强化。该文桥接Communications、AI 6G、Agent、LLM和Semantic Communications，但需实证补充以增强学术严谨性，具有显著产业指导价值。[1]"
+      "snippet": "本文针对6G网络提出目标导向语义通信框架，融合AI技术实现含义驱动传输。论文探讨了语义编码器设计、LLM辅助的语义表示和代理协作机制，支持动态任务适应。关键技术包括语义多址接入和知识增强传输，应用于6G下的高可靠性场景如工业IoT和XR。分析了性能指标如语义相似度和任务成功率，并通过模拟验证了比传统通信的增益。未来方向涉及标准化和边缘部署。[3]",
+      "interpretation": "论文突显**Semantic Communications**在**AI 6G**中的核心作用，创新引入**Large Language Model**与**Agent**协作，提升传输效率和鲁棒性。其重要性在于提供可量化的框架，支持**Communications**从比特到语义的范式转变。创新点为语义任务分解算法，允许代理自治决策，潜在影响包括优化6G能效，推动智能工厂部署。然而，局限性在于预印本性质，缺乏同行评审；模拟未考虑真实噪声模型；**Agent**规模受LLM计算限制，未评估分布式训练开销。需进一步实证验证以影响标准化。[3]"
     },
     {
-      "id": "paper-api-1770254801774-shdrn",
-      "title": "AI-ML and Goal-oriented Semantic Networks for the 6G Networks",
-      "url": "https://www.ieeesmc.org/cai-2026/tutorial-11-ai-ml-and-goal-oriented-semantic-networks-for-the-6g-networks/",
+      "id": "paper-api-1770341229379-zt0o2v",
+      "title": "An Introduction to Semantic Communication and Semantic-Aware Networking at IMT-2030 (6G) Standardization",
+      "url": "https://dl.acm.org/doi/10.1145/3701701.3701707",
       "authors": [
-        "Not specified in available sources"
+        "(Not specified in excerpt; associated with ACM SIGCOMM community)"
       ],
       "affiliations": [
-        "IEEE SMC"
+        "Various IMT-2030 contributors",
+        "ACM affiliations"
       ],
-      "journal": "IEEE CAI 2026 Tutorial",
-      "publicationDate": "2025",
+      "journal": "ACM Digital Library / Conference Proceedings",
+      "publicationDate": "2024",
       "paperKeywords": [
         "通信, AI 6G, Agent, LLM, 语义通信",
-        "Semantic Communications",
-        "AI 6G",
-        "Goal-oriented Networks",
-        "AI/ML Agents",
-        "Large Language Model",
-        "O-RAN",
-        "GenAI"
+        "Semantic-Aware Networking",
+        "6G IMT-2030",
+        "AI Standardization",
+        "Semantic Agents",
+        "LLM Integration",
+        "JSCC",
+        "6G Protocols"
       ],
-      "snippet": "本教程概述目标导向语义网络在6G中的方法，利用AI/ML注入网络智能。语义信息和AI技术提升BY5G/6G性能，介绍目标导向KPI。涵盖运营商视角（网络自动化）和用户视角（垂直行业应用），示例包括区块链集成、O-RAN和GenAI。讨论益处、挑战及趋势，如边缘/云系统和安全。目标导向语义网络标志网络智能新跃进，支持LLM驱动代理在6G中的部署。[4]",
-      "interpretation": "该教程的重要性在于将目标导向语义网络定位为6G AI/ML核心，推动从5G向6G的智能跃迁。创新点包括融合GenAI和代理框架，实现语义KPI优化，支持O-RAN中的分布式代理，提升6G自治性。潜在影响包括增强垂直应用如医疗Metaverse的安全性和效率，促进Communications与AI 6G标准化。然而，局限性为教程形式，深度不足以覆盖LLM具体算法；未来趋势乐观但忽略计算异构性挑战；安全集成（如区块链）概念化强。扩展到Semantic Communications代理实验将更具影响力。该文高效交汇多关键词，为从业者提供实用蓝图，但需后续论文深化以实现全面评估。[4]"
+      "snippet": "本文概述了IMT-2030（6G）标准化中语义通信和语义感知网络的进展。语义通信强调任务导向传输，集成AI/ML实现高效6G网络。讨论了架构兼容性、评估框架和关键技术如JSCC与语义代理。标准化活动涵盖3GPP和ITU路径，支持LLM驱动的语义提取。用例包括超可靠通信和沉浸式服务，分析挑战如互操作性和安全性。[4]",
+      "interpretation": "该文的重要性在于直击6G标准化痛点，交汇**Communications**、**AI 6G**、**Semantic Communications**与**Agent**/LLM。其创新为提出语义感知协议栈，支持代理间意图通信。潜在影响：加速全球6G部署，提升网络智能。然而，局限性为入门性概述，深度不足；未详述LLM具体集成；依赖假设场景，无实测数据。未来需补充代理仿真以验证 scalability。[4]"
     }
   ],
-  "lastUpdate": "2026-02-05T09:26:41.776Z",
+  "lastUpdate": "2026-02-06T09:27:09.380Z",
   "keywords": [
     "通信",
     "AI 6G",
@@ -141,5 +183,5 @@
     "LLM",
     "语义通信"
   ],
-  "lastAutoUpdateDate": "2026/2/5"
+  "lastAutoUpdateDate": "2026/2/6"
 }
